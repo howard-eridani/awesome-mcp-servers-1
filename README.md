@@ -265,6 +265,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
 
+- <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp) - Give AI agents read/write access to your Obsidian vault via MCP
 <br />
 
 ## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
